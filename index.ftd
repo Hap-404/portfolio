@@ -99,7 +99,7 @@ link: mailto:aparekh.harsh@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: twitter.com
+link: https://twitter.com/hap_404
 isNewTab: true
 
 -- end: ftd.row
@@ -121,7 +121,7 @@ link: https://www.linkedin.com/in/harsh-parekh-6b068025b/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link:twitter.com
+link:https://twitter.com/hap_404
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
